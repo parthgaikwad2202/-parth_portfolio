@@ -1,0 +1,42 @@
+[
+  {
+    "name": "E-Commerce Clothing Store",
+    "desc": "A full-stack MERN e-commerce web app for clothing with product listings, cart, admin panel, and order management.",
+    "image": "ecom",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/parthgaikwad2202",
+      "code": "https://github.com/parthgaikwad2202/E_commerce_clothing_store"
+    }
+  },
+  {
+    "name": "Online Flight Booking",
+    "desc": "An online flight booking application built during internship at NexaNova Protech. Users can search and book flights easily.",
+    "image": "flight",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/parthgaikwad2202",
+      "code": "https://github.com/parthgaikwad2202/Flight-Website"
+    }
+  },
+  {
+  "name": "Amazon Clone",
+  "desc": "Amazon-inspired full-stack e-commerce web application with product browsing, cart management, user authentication, and responsive design.",
+  "image": "amazon",
+  "category": "web",
+  "links": {
+    "view": "https://github.com/parthgaikwad2202",
+    "code": "https://github.com/parthgaikwad2202/Amazon-Clone"
+  }
+},
+{
+  "name": "Employee Task Management System",
+  "desc": "Amazon-inspired full-stack e-commerce web application with product browsing, cart management, user authentication, and responsive design.",
+  "image": "task_management",
+  "category": "web",
+  "links": {
+    "view": "https://github.com/parthgaikwad2202",
+    "code": "https://github.com/parthgaikwad2202/Employee-Task-Management-System"
+  }
+}
+]
